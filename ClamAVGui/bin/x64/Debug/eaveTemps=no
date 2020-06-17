@@ -1,0 +1,288 @@
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 102
+Scanned files: 165
+Infected files: 0
+Data scanned: 44.17 MB
+Data read: 260.56 MB (ratio 0.17:1)
+Time: 11.453 sec (0 m 11 s)
+
+-------------------------------------------------------------------------------
+
+C:\Users\Alessandro\Documents\Default.rdp: Empty file
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 102
+Scanned files: 167
+Infected files: 0
+Data scanned: 44.17 MB
+Data read: 260.56 MB (ratio 0.17:1)
+Time: 11.422 sec (0 m 11 s)
+
+-------------------------------------------------------------------------------
+
+C:\Users\Alessandro\Documents\Default.rdp: Empty file
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 1.06 MB
+Data read: 0.54 MB (ratio 1.96:1)
+Time: 10.353 sec (0 m 10 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 10.516 sec (0 m 10 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 8.750 sec (0 m 8 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 8.672 sec (0 m 8 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 8.673 sec (0 m 8 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 8.734 sec (0 m 8 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 2
+Infected files: 0
+Data scanned: 0.21 MB
+Data read: 0.20 MB (ratio 1.02:1)
+Time: 8.672 sec (0 m 8 s)
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\store.jfm: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\store.vol: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\tmp.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\USS.jtx: Permission denied
+C:\Users\aless\AppData\Local\ConnectedDevicesPlatform\ActivitiesCache.db-wal: Empty file
+
+-------------------------------------------------------------------------------
+
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\store.jfm: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\store.vol: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\tmp.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Comms\UnistoreDB\USS.jtx: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\UsrClass.dat: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\WebCache\V01.log: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\WebCache\V01tmp.log: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\edb.log: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\edbtmp.log: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\IndexedDB.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AppData\User\Default\Indexed DB\IndexedDB.jfm: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat.LOG1: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.Cortana_cw5n1h2txyewy\Settings\settings.dat.LOG2: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat.LOG1: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat.LOG2: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\1gw1xize.a41: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\erwklzf4.jbl: Permission denied
+C:\Users\aless\AppData\Local\Temp\TFRBA3.tmp: Heuristics.Broken.Executable FOUND
+C:\Users\aless\AppData\Local\Temp\TFRBA3.tmp: Removed.
+C:\Users\aless\AppData\Local\Temp\TFRE98C.tmp: Heuristics.Broken.Executable FOUND
+C:\Users\aless\AppData\Local\Temp\TFRE98C.tmp: Removed.
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\VSTelem\c3e1fffce29548c483ba01232ceb15ce6664\c3e1fffce29548c483ba01232ceb15ce6664.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\VSTelem\c3e1fffce29548c483ba01232ceb15ce6664\c3e1fffce29548c483ba01232ceb15ce6664.jfm: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\VSTelem\c3e1fffce29548c483ba01232ceb15ce6664\tmp.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\Temp\y5sjngmb.jkd: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\TileDataLayer\Database\EDB.log: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\TileDataLayer\Database\vedatamodel.edb: Permission denied
+WARNING: Can't open file C:\Users\aless\AppData\Local\TileDataLayer\Database\vedatamodel.jfm: Permission denied
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1964
+Scanned files: 7469
+Infected files: 2
+Total errors: 30
+Data scanned: 1790.12 MB
+Data read: 2246.59 MB (ratio 0.80:1)
+Time: 436.703 sec (7 m 16 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 6
+Scanned files: 51
+Infected files: 0
+Data scanned: 35.78 MB
+Data read: 127.56 MB (ratio 0.28:1)
+Time: 11.422 sec (0 m 11 s)
+
+-------------------------------------------------------------------------------
+
+WARNING: Can't open file C:\WINDOWS\system32\catroot2\edb.log: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\BBI: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\BBI.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\BBI.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DEFAULT: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DEFAULT.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DEFAULT.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DRIVERS: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DRIVERS.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\DRIVERS.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\RegBack\DEFAULT: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\RegBack\SAM: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\RegBack\SECURITY: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\RegBack\SOFTWARE: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\RegBack\SYSTEM: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SAM: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SAM.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SAM.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SECURITY: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SECURITY.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SECURITY.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SOFTWARE: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SOFTWARE.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SOFTWARE.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SYSTEM: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SYSTEM.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\config\SYSTEM.LOG2: Permission denied
+C:\WINDOWS\system32\DriverStore\FileRepository\nv_dispiwu.inf_amd64_9ff5ab165faead52\VulkanRT-Installer.exe: Win.Trojan.Agent-1426210 FOUND
+ERROR: Can't remove file 'C:\WINDOWS\system32\DriverStore\FileRepository\nv_dispiwu.inf_amd64_9ff5ab165faead52\VulkanRT-Installer.exe'.
+WARNING: Can't open file C:\WINDOWS\system32\Microsoft\Protect\Recovery\Recovery.dat: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\Microsoft\Protect\Recovery\Recovery.dat.LOG1: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\Microsoft\Protect\Recovery\Recovery.dat{652db857-a414-11e6-9bc8-00224d9db080}.TM.blf: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\Microsoft\Protect\Recovery\Recovery.dat{652db857-a414-11e6-9bc8-00224d9db080}.TMContainer00000000000000000001.regtrans-ms: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\Microsoft\Protect\Recovery\Recovery.dat{652db857-a414-11e6-9bc8-00224d9db080}.TMContainer00000000000000000002.regtrans-ms: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\SMI\Store\Machine\SCHEMA.DAT: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\SMI\Store\Machine\SCHEMA.DAT.LOG2: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\sru\SRU.log: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\sru\SRUDB.dat: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\sru\SRUDB.jfm: Permission denied
+WARNING: Can't open file C:\WINDOWS\system32\sru\SRUtmp.log: Permission denied
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1551
+Scanned files: 18176
+Infected files: 1
+Total errors: 42
+Not removed: 1
+Data scanned: 3965.66 MB
+Data read: 4863.21 MB (ratio 0.82:1)
+Time: 1145.053 sec (19 m 5 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 6
+Scanned files: 51
+Infected files: 0
+Data scanned: 35.79 MB
+Data read: 127.56 MB (ratio 0.28:1)
+Time: 11.407 sec (0 m 11 s)
+
+-------------------------------------------------------------------------------
+
+
+----------- SCAN SUMMARY -----------
+Known viruses: 4710472
+Engine version: 0.99.2
+Scanned directories: 1
+Scanned files: 1
+Infected files: 0
+Data scanned: 0.00 MB
+Data read: 0.00 MB (ratio 0.00:1)
+Time: 9.140 sec (0 m 9 s)
