@@ -1,0 +1,17 @@
+--------------------------------------
+ClamAV update process started at Tue Aug 09 17:02:28 2016
+main.cvd is up to date (version: 57, sigs: 4218790, f-level: 60, builder: amishhammer)
+WARNING: getfile: daily-21885.cdiff not found on database.clamav.net (IP: 195.154.7.176)
+WARNING: getpatch: Can't download daily-21885.cdiff from database.clamav.net
+Can't query daily.21885.82.0.1.C39A07B0.ping.clamav.net
+Trying host database.clamav.net (90.147.160.69)...
+WARNING: getfile: daily-21885.cdiff not found on database.clamav.net (IP: 90.147.160.69)
+WARNING: getpatch: Can't download daily-21885.cdiff from database.clamav.net
+Can't query daily.21885.82.0.1.5A93A045.ping.clamav.net
+WARNING: getpatch: Can't download daily-21885.cdiff from database.clamav.net
+WARNING: Incremental update failed, trying to download daily.cvd
+Downloading daily.cvd [100%]
+daily.cvd updated (version: 22056, sigs: 497026, f-level: 63, builder: neo)
+Can't query daily.22056.82.1.1.5A93A045.ping.clamav.net
+bytecode.cvd is up to date (version: 283, sigs: 53, f-level: 63, builder: neo)
+Database updated (4715869 signatures) from database.clamav.net (IP: 90.147.160.69)
