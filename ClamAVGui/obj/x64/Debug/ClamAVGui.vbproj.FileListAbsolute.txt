@@ -1,0 +1,42 @@
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.exe.config
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.exe
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Form1.resources
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Resources.resources
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbproj.GenerateResource.Cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.exe
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.exe.config
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.exe
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVGui.pdb
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ClamService.resources
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Form1.resources
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Resources.resources
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ProjectInstaller.resources
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbproj.GenerateResource.Cache
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.exe
+C:\Users\Alessandro\Documents\Visual\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.pdb
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.exe.config
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.exe
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.pdb
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbprojResolveAssemblyReference.cache
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ClamService.resources
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Form1.resources
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Resources.resources
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ProjectInstaller.resources
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbproj.GenerateResource.Cache
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVSuite.exe
+C:\Users\aless\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVSuite.pdb
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.exe.config
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVSuite.exe
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVSuite.pdb
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.exe
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\bin\x64\Debug\ClamAVSuite.pdb
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbprojResolveAssemblyReference.cache
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ClamService.resources
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Form1.resources
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.Resources.resources
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.ProjectInstaller.resources
+C:\Users\s-r-grass\Desktop\ClamAVGui\ClamAVGui\obj\x64\Debug\ClamAVGui.vbproj.GenerateResource.Cache

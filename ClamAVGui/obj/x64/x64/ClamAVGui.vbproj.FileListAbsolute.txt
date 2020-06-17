@@ -1,0 +1,6 @@
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\x64\ClamAVGui.exe.config
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\x64\ClamAVGui.Form1.resources
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\x64\ClamAVGui.Resources.resources
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\x64\ClamAVGui.vbproj.GenerateResource.Cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\bin\x64\x64\ClamAVGui.exe
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\ClamAVGui\ClamAVGui\obj\x64\x64\ClamAVGui.exe
